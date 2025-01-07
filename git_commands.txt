@@ -19,3 +19,8 @@ git --version
  git status
  clear
  history
+ clear
+ git remote -v
+ git remote add origin https://github.com/H1manshu-Kumar/githb_for_devops.git
+ git remote -v
+ git push origin master
