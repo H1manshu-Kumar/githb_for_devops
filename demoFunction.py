@@ -1,7 +1,9 @@
-def add():
-    a=10
-    b=20
+# Input two numbers
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
 
-    return d
+# Calculate the sum
+result = num1 + num2
 
-add()
+# Display the result
+print("The sum of the two numbers is:", result)
